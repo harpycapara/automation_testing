@@ -1,0 +1,6 @@
+tests/UserApiTest.class
+base/TestBase.class
+base/UserTestBase.class
+base/entity/User.class
+base/utils/GsonUtil$1.class
+base/utils/GsonUtil.class
